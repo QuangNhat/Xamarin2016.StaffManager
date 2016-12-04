@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:isScrollContainer="true">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Name:" />
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            local:MvxBind="Text Name" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Birthday:" />
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            local:MvxBind="Text Birthday" />
+        <RadioGroup
+            android:id="@+id/radiogroup_sex"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <RadioButton
+                android:id="@+id/radio_man"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Man"
+                local:MvxBind="Click SexSelectCommand" />
+            <RadioButton
+                android:id="@+id/radio_woman"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Woman"
+                local:MvxBind="Click SexSelectCommand" />
+        </RadioGroup>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Address:" />
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            local:MvxBind="Text Address" />
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="Add Picture"
+            local:MvxBind="Click AddPictureCommand" />
+        <Mvx.MvxImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            local:MvxBind="Bitmap PictureBytes,Converter=InMemoryImage" />
+        <CheckBox
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Has Location"
+            local:MvxBind="Checked LocationKnown"
+            android:enabled="false" />
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Save"
+            local:MvxBind="Click SaveCommand" />
+    </LinearLayout>
+</ScrollView>

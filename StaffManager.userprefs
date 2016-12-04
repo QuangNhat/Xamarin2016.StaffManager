@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E4260A41-4131-4036-912F-3B53933FF3A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StaffManager.Core/Converters/SexConverter.cs">
+    <Files>
+      <File FileName="StaffManager.Core/ViewModels/AddViewModel.cs" Line="171" Column="1" />
+      <File FileName="StaffManager.Core/Converters/SexConverter.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StaffManager.Droid PreferredExecutionTarget="Android.0123456789ABCDEF" />
+  <MonoDevelop.Ide.ItemProperties.CollectABull.Droid PreferredExecutionTarget="Android.0123456789ABCDEF" />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/obj/Debug/.NETPortable,Version=v4.0,Profile=Profile158.AssemblyAttribute.cs
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/bin/Debug/CollectABull.Core.dll.mdb
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/bin/Debug/CollectABull.Core.dll
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/obj/Debug/CollectABull.Core.dll
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/obj/Debug/CollectABull.Core.dll.mdb
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/bin/Debug/Cirrious.CrossCore.dll
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/bin/Debug/Cirrious.MvvmCross.dll
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/bin/Debug/Cirrious.MvvmCross.Localization.dll
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/bin/Debug/Cirrious.MvvmCross.Plugins.File.dll
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/bin/Debug/Cirrious.MvvmCross.Plugins.Location.dll
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/bin/Debug/Cirrious.MvvmCross.Plugins.Messenger.dll
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/bin/Debug/Cirrious.MvvmCross.Plugins.PictureChooser.dll
+/Users/QuangNhat/Downloads/NPlus1DaysOfMvvmCross-master/N-17-CollectABull-Part6/CollectABull.Core/bin/Debug/Cirrious.MvvmCross.Plugins.Sqlite.dll

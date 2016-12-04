@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="1" android:versionName="1.0" package="Xamarin2016.StaffManager">
+  <uses-sdk android:targetSdkVersion="10" android:minSdkVersion="7" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <application android:icon="@drawable/appicon" android:name="android.app.Application" android:allowBackup="true" android:label="Xamarin2016.StaffManager" android:debuggable="true">
+    <activity android:icon="@drawable/appicon" android:label="StaffManager.Droid" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.SplashScreen" android:name="md55e40c15e3fa1183ec4b4ff1e247d1b55.SplashScreen">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Add a new Staff" android:name="md506df07d31ee462e55e72a96ca071d375.AddView" />
+    <activity android:label="Detail of Staff" android:name="md506df07d31ee462e55e72a96ca071d375.DetailView" />
+    <activity android:label="Home" android:name="md506df07d31ee462e55e72a96ca071d375.HomeView" />
+    <activity android:label="List of all Staffs" android:name="md506df07d31ee462e55e72a96ca071d375.ListView" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Xamarin2016.StaffManager.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Xamarin2016.StaffManager" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

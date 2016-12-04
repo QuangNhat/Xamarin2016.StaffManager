@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.CrossCore.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Binding.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.DownloadCache.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.File.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.Location.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.PictureChooser.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.Sqlite.Droid/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/Cirrious.CrossCore.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/Cirrious.MvvmCross.Binding.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/Cirrious.MvvmCross.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.DownloadCache.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.File.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.Location.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.PictureChooser.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.Sqlite.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.CrossCore.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.DownloadCache.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.File.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.Location.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.PictureChooser.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/QuangNhat/Downloads/NhatDQ/StaffManager/StaffManager.Droid/obj/Release/__library_projects__/Cirrious.MvvmCross.Plugins.Sqlite.Droid.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
